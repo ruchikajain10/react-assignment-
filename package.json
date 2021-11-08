@@ -1,0 +1,14 @@
+{
+  "name": "Y",
+  "version": "Y",
+  "description": "Y",
+  "main": "Y",
+  "repository": "Y",
+  "author": "Y",
+  "license": "Y",
+  "private": true,
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "react-scripts": "^4.0.3"
+  }
+}
